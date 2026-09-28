@@ -14,3 +14,7 @@ app/.mvn/wrapper/maven-wrapper.jar
 
 # Logs
 *.log
+
+# Relatórios K6 gerados localmente
+k6/reports/*.html
+k6/reports/*.json
