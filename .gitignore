@@ -1,0 +1,16 @@
+# Variáveis de ambiente locais (nunca commitar)
+.env
+
+# Maven
+app/target/
+app/.mvn/wrapper/maven-wrapper.jar
+!app/.mvn/wrapper/maven-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs
+*.log
